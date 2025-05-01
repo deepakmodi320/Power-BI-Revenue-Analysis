@@ -3,7 +3,6 @@
 This project presents a real-world sales analysis for a café offering a variety of food and beverages. 
 The goal was to extract meaningful business insights using Excel for data preparation and Power BI for interactive visualization.
 
----
 
 ## ❓ This Report Answers the Following Business Questions
 
@@ -16,7 +15,6 @@ The goal was to extract meaningful business insights using Excel for data prepar
 - During which quarters does the café perform best?
 - Which product categories are most popular in each quarter?
 
----
 
 ## 🛠️ Tools Used
 
