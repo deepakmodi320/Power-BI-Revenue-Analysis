@@ -1,9 +1,8 @@
-# ☕ Cafe Revenue Analysis Report using Excel and Power BI
+#☕ Cafe Revenue Analysis Report using Excel and Power BI
 
 This project presents a real-world sales analysis for a café selling food and beverages
 
-## ❓ This Report Answers the Following Business Questions
-
+##❓This Report Answers the Following Business Questions
 - Which product categories generate the highest revenue?
 - What are the monthly and quarterly revenue trends?
 - How does order volume vary across different days of the week?
