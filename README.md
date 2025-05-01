@@ -2,7 +2,7 @@
 
 This project presents a real-world sales analysis for a café selling food and beverages
 
-## ❓ This Report Answers the Following Business Questions:
+## ❓ This Report Answers the Following Business Questions
 
 - Which product categories generate the highest revenue?
 - What are the monthly and quarterly revenue trends?
